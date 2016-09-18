@@ -4,6 +4,8 @@ QtCreator syntax color theme based on [Sublime Editor Material Theme](https://gi
 
 # Install
 ### 1- Dark Theme
+![QML](https://raw.githubusercontent.com/foxoman/sublimematerial/master/SublimeMaterial_Dark_qml.png)
+![C++](https://raw.githubusercontent.com/foxoman/sublimematerial/master/SublimeMaterial_Dark_cpp.png)
 ## Windows
 `xcopy SublimeMaterial.xml %APPDATA%\QtProject\qtcreator\styles`
 
