@@ -1,9 +1,9 @@
 # SublimeMaterial
-QtCreator syntax color theme based on ![Sublime Editor Material Theme](https://github.com/equinusocio/material-theme)
+QtCreator syntax color theme based on [Sublime Editor Material Theme](https://github.com/equinusocio/material-theme)
 
 
 # Install
-### Dark Theme
+### 1- Dark Theme
 ## Windows
 `xcopy SublimeMaterial.xml %APPDATA%\QtProject\qtcreator\styles`
 
@@ -13,7 +13,7 @@ QtCreator syntax color theme based on ![Sublime Editor Material Theme](https://g
 ## Linux
 `cp SublimeMaterial.xml ~/.config/QtProject/qtcreator/styles/`
 
-### Light Theme
+### 2- Light Theme
 ## Windows
 `xcopy SublimeMaterialLight.xml %APPDATA%\QtProject\qtcreator\styles`
 
