@@ -2,7 +2,7 @@
 QtCreator syntax color theme based on [Sublime Editor Material Theme](https://github.com/equinusocio/material-theme)
 
 # Support
-If you like this theme, you can use it for freem appricate your support to have more themes :)
+If you like this theme, you can use it for free appreciate your support to have more themes :)
 
 <a href="https://www.buymeacoffee.com/foxoman" rel="Support">![Support](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)</a>
 
